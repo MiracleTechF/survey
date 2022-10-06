@@ -1,0 +1,128 @@
+body {
+    background-image: url('mountain.jpeg');
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    padding: 20px;
+
+}
+p {
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: red;
+    font-size: small;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    color: #fff;
+    width: 500px;
+    height: 20px;
+    border-width: 5px;
+}
+form {
+    background-color: #fff;
+    border: 10px solid  #ffff;
+    box-shadow: 200px black;
+    box-sizing: border-box;
+
+}
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+.container-1 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+.container-1 input {
+    width: 250px;
+    height: 35px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.container-1 input[placeholder] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-2 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.container-2 input {
+    width: 250px;
+    height: 35px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container-2 input[placeholder] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-3 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+.container-3 input {
+    width: 250px;
+    height: 35px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.container-3 input[placeholder] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-4 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+.container-4 input {
+    width: 250px;
+    height: 35px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.container-4 input[placeholder] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-4 select {
+    width: 250px;
+    height: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-5 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+
+}
+.container-6 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+.container-7 label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+.container-7 textarea[name] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black
+}
+
+.container-8 button[type] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: aqua;
+    font-weight: bold;
+    width: 450px;
+    height: 30px;
+    border-radius: 10px;
+}
+.ftn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
